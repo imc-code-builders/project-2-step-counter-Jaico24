@@ -6,7 +6,7 @@ Build a step counter that analyzes accelerometer data from a phone or fitness tr
 
 When you walk, your phone's accelerometer detects movement changes. Large increases in acceleration usually mean you took a step.
 
-Let's refresh on the difference between:
+Let's refresh on the difference between: 
 
 - Position: Where you are.
 - Velocity: How fast you are moving.
