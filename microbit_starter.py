@@ -8,6 +8,6 @@ while True:
     # You must pass a dictionary to log.add
     # with the key as the name of the data ('strength') and the value as the actual strength
     strength = accelerometer .get_strength()
-    log.add({'strength':strength})
+    log.add(dictionary)
 
     sleep(100)
